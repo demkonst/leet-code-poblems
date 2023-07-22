@@ -1,7 +1,7 @@
-using LeetCodeProblems.Problems._6;
+using LeetCodeProblems.Problems._00006;
 using NUnit.Framework;
 
-namespace LeetCodeProblems.Tests._6;
+namespace LeetCodeProblems.Tests._00006;
 
 public class ZigzagConversionTests
 {

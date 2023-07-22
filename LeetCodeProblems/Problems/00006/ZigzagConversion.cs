@@ -1,4 +1,4 @@
-﻿namespace LeetCodeProblems.Problems._6;
+﻿namespace LeetCodeProblems.Problems._00006;
 
 public class ZigzagConversion
 {

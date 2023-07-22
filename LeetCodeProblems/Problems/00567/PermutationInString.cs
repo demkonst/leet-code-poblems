@@ -1,4 +1,4 @@
-﻿namespace LeetCodeProblems.Problems._567;
+﻿namespace LeetCodeProblems.Problems._00567;
 
 public class PermutationInString
 {

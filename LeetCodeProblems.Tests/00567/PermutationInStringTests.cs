@@ -1,7 +1,7 @@
-﻿using LeetCodeProblems.Problems._567;
+﻿using LeetCodeProblems.Problems._00567;
 using NUnit.Framework;
 
-namespace LeetCodeProblems.Tests._567;
+namespace LeetCodeProblems.Tests._00567;
 
 public class PermutationInStringTests
 {
